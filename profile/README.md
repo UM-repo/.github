@@ -38,8 +38,8 @@ Compensation, Masking, and Assimilation are modelled jointly using multivariate 
 
 | Directory | Contents |
 |---|---|
-| [`code/`]([code/](https://github.com/UM-AC-repo/CATQ_Multivariate/code)) | Contains the complete analysis notebook, including modelling, sensitivity analyses, figures, and tables. It also contains the standalone impute script used to generate the multiply imputed datasets. |
-| [`data/`]([data/](https://github.com/UM-AC-repo/CATQ_Multivariate/data)) | Contains the processed source dataset of 195 participants and the ZIP package with the 20 completed imputed datasets used by the analysis notebook. |
+| [`code/`](https://github.com/UM-AC-repo/CATQ_Multivariate/tree/main/code) | Contains the complete analysis notebook, including modelling, sensitivity analyses, figures, and tables. It also contains the standalone imputation script used to generate the multiply imputed datasets. |
+| [`data/`](https://github.com/UM-AC-repo/CATQ_Multivariate/tree/main/data) | Contains the processed source dataset of 195 participants and the ZIP package containing the 20 completed imputed datasets used by the analysis notebook. |
 
 
 ## License
